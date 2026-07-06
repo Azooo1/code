@@ -1,0 +1,29 @@
+# Bolt.new 对话记录
+**用户**: Tom | **邮箱**: a-zhou0204@proton.me**导出**: 2026-07-06 | 共 26 个会话 | 共 330 条消息
+---
+- [1. 设置中文界面](conversations/01_设置中文界面.md) — 2026-05-31
+- [2. Mac系统使用步骤](conversations/02_Mac系统使用步骤.md) — 2026-05-31
+- [3. 对话 3](conversations/03_对话_3.md) — 2026-06-07
+- [4. 对话 4](conversations/04_对话_4.md) — 2026-06-07
+- [5. 对话 5](conversations/05_对话_5.md) — 2026-06-27
+- [6. Understanding suspicious deployment files](conversations/06_Understanding_suspicious_deployment_files.md) — 2026-06-27
+- [7. 对话 7](conversations/07_对话_7.md) — 2026-06-27
+- [8. Apps and websites](conversations/08_Apps_and_websites.md) — 2026-06-27
+- [9. 对话 9](conversations/09_对话_9.md) — 2026-06-27
+- [10. 对话 10](conversations/10_对话_10.md) — 2026-06-27
+- [11. Quiz or survey](conversations/11_Quiz_or_survey.md) — 2026-06-27
+- [12. 初始问候](conversations/12_初始问候.md) — 2026-06-27
+- [13. 压力测试脚本编写](conversations/13_压力测试脚本编写.md) — 2026-06-28
+- [14. 服务器重启后应用无法连接](conversations/14_服务器重启后应用无法连接.md) — 2026-06-28
+- [15. 对话 15](conversations/15_对话_15.md) — 2026-06-29
+- [16. 服务器连接状态](conversations/16_服务器连接状态.md) — 2026-06-29
+- [17. 代码审查](conversations/17_代码审查.md) — 2026-06-30
+- [18. SSH connection to remote server](conversations/18_SSH_connection_to_remote_server.md) — 2026-07-02
+- [19. Archive deployment bundle review](conversations/19_Archive_deployment_bundle_review.md) — 2026-07-02
+- [20. 对话 20](conversations/20_对话_20.md) — 2026-07-03
+- [21. 部署](conversations/21_部署.md) — 2026-07-03
+- [22. 这个是什么意思](conversations/22_这个是什么意思.md) — 2026-07-04
+- [23. Talkoapp虚拟货币充值页面文案](conversations/23_Talkoapp虚拟货币充值页面文案.md) — 2026-07-04
+- [24. 对话 24](conversations/24_对话_24.md) — 2026-07-05
+- [25. 拉取最新版本代码](conversations/25_拉取最新版本代码.md) — 2026-07-05
+- [26. 打开谷歌云盘](conversations/26_打开谷歌云盘.md) — 2026-07-05
